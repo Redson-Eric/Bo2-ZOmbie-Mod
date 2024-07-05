@@ -1,0 +1,3 @@
+C:/Users/R/CLionProjects/Bo2ZOmbie/cmake-build-debug/CMakeFiles/Bo2ZOmbie.dir
+C:/Users/R/CLionProjects/Bo2ZOmbie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/R/CLionProjects/Bo2ZOmbie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
